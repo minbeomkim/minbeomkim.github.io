@@ -8,7 +8,7 @@ layout: default
 
 Hi! I am a Ph.D student at Seoul National University. I am fortunate to be advised by Prof. [Kyomin Jung](http://milab.snu.ac.kr/kjung/index.html).
 
-[Email](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=minbeomkim@snu.ac.kr) | [GitHub](https://github.com/minbeomkim) | [LinkedIn](https://www.linkedin.com/in/mbkimm/)
+[Email](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=minbeomkim@snu.ac.kr)  [GitHub](https://github.com/minbeomkim)  [LinkedIn](https://www.linkedin.com/in/mbkimm/)
 
 ## Research Interest
 
