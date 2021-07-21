@@ -16,7 +16,7 @@ My research is broadly in machine learning and natural language process. I am cu
 
 ## Professional Experience
 
-![이미지](SNU_logo.jpeg)
+<!-- ![이미지](SNU_logo.jpeg) -->
 <img class="profile-picture" src="SNU_logo.jpeg">
 
 Seoul National University, Machine Intelligence Lab<br/>
@@ -29,7 +29,7 @@ Agency for Defense Development<br/>
 AI Scientist / 1st Lietenant (Duration of Military Service)<br/>
 2018.06 ~ 2021.05<br/>
 
-<img class="profile-picture" src="KAIST_logo.jpeg">
+<img src="KAIST_logo.jpeg">
 
 KAIST, Applied Artificial Intelligence Lab<br/>
 Undergraduate Intern<br/>
