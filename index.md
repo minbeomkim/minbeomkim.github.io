@@ -14,7 +14,7 @@ minbeomkim@snu.ac.kr
 
 ## Research Interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+My research is broadly in machine learning and natural language process. I am currently interested in learning representation about multi-modal knowledge of the world and knowledge grounded dialogue. 
 
 ## Publications
 
