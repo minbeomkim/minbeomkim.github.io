@@ -17,7 +17,8 @@ My research is broadly in machine learning and natural language process. I am cu
 ## Professional Experience
 
 <!-- ![이미지](SNU_logo.jpeg) -->
-<img class="profile-picture" src="SNU_logo.jpeg">
+<!-- <img class="profile-picture" src="SNU_logo.jpeg"> -->
+<img src="SNU_logo.jpeg" width="100" height="100" align="right">
 
 Seoul National University, Machine Intelligence Lab<br/>
 Graduate Research Assistant<br/>
