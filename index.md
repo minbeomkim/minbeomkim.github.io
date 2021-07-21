@@ -6,9 +6,10 @@ layout: default
 
 <img class="profile-picture" src="face.jpeg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+Hi! I am a Ph.D student at Seoul National University. I am fortunate to be advised by Prof. Kyomin Jung.
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+minbeomkim@snu.ac.kr
+[GitHub](https://github.com/bk2dcradle/researcher) [LinkedIn](https://www.linkedin.com/in/mbkimm/)
 
 ## Research Interest
 
