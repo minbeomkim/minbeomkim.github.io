@@ -9,6 +9,7 @@ layout: default
 Hi! I am a Ph.D student at Seoul National University. I am fortunate to be advised by Prof. Kyomin Jung.
 
 minbeomkim@snu.ac.kr
+
 [GitHub](https://github.com/bk2dcradle/researcher) [LinkedIn](https://www.linkedin.com/in/mbkimm/)
 
 ## Research Interest
