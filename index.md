@@ -12,7 +12,7 @@ Hi! I am a Ph.D student at Seoul National University. I am fortunate to be advis
 
 ## Research Interest
 
-My research is broadly in machine learning and natural language process. I am currently interested in learning representation about multi-modal knowledge of the world and knowledge grounded dialogue. 
+My research interest is broadly in machine learning and natural language process. I am currently interested in learning representation about multi-modal knowledge of the world and the knowledge grounded dialogue. 
 
 ## Professional Experience
 
