@@ -19,8 +19,8 @@ My research is broadly in machine learning and natural language process. I am cu
 
 ## Publications
 
-1. Changyeop shin, <u>Minbeom Kim</u>, Sungho Kim and Youngjung Kim. ”Stacked lossless deconvolutional network for remote sensing image restoration”.<br/> 
-   𝐽𝑜𝑢𝑟𝑛𝑎𝑙 𝑜𝑓 𝐴𝑝𝑝𝑙𝑖𝑒𝑑 𝑅𝑒𝑚𝑜𝑡𝑒 𝑆𝑒𝑛𝑠𝑖𝑛𝑔. 2020.
+1. Stacked lossless deconvolutional network for remote sensing image restoration.<br/> 
+   Changyeop shin, <u>Minbeom Kim</u>, Sungho Kim and Youngjung Kim. 𝐽𝑜𝑢𝑟𝑛𝑎𝑙 𝑜𝑓 𝐴𝑝𝑝𝑙𝑖𝑒𝑑 𝑅𝑒𝑚𝑜𝑡𝑒 𝑆𝑒𝑛𝑠𝑖𝑛𝑔. 2020.
 2. Changyeop Shin, <u>Minbeom Kim</u>, Sungho Kim and Youngjung Kim. ”Stacked lossless deconvolutional network for remote sensing image super-resolution”.<br/> 
    𝑆𝑃𝐼𝐸 𝐼𝑚𝑎𝑔𝑒 𝑎𝑛𝑑 𝑆𝑖𝑔𝑛𝑎𝑙 𝑃𝑟𝑜𝑐𝑒𝑠𝑠𝑖𝑛𝑔 𝑓𝑜𝑟 𝑅𝑒𝑚𝑜𝑡𝑒 𝑆𝑒𝑛𝑠𝑖𝑛𝑔. 2019.
 3. <u>Minbeom Kim</u>, Sungho Kim and Youngjung Kim. ”Deep GPS Spoofing Detection”.<br/> 
