@@ -16,13 +16,13 @@ My research is broadly in machine learning and natural language process. I am cu
 
 ## Professional Experience
 
-<img class="profile-picture" src="SNU_logo.jpeg">
+<src="SNU_logo.jpeg">
 
 Seoul National University, Machine Intelligence Lab<br/>
 Graduate Research Assistant<br/>
 2021.08 ~<br/>
 
-<img class="profile-picture" src="ADD_logo.png">
+<src="ADD_logo.png">
 
 Agency for Defense Development<br/>
 AI Scientist / 1st Lietenant (Duration of Military Service)<br/>
