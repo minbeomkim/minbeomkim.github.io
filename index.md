@@ -24,7 +24,7 @@ Seoul National University, Machine Intelligence Lab<br/>
 Graduate Research Assistant<br/>
 2021.08 ~<br/>
 
-<img class="profile-picture" src="ADD_logo.png">
+<img class="profile-picture" src="ADD_logo.png" align="right">
 <!-- <img src="ADD_logo.png" width="100" height="100" align="right"> -->
 
 Agency for Defense Development<br/>
