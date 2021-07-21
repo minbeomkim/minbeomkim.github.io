@@ -16,6 +16,11 @@ My research is broadly in machine learning and natural language process. I am cu
 
 ## Professional Experience
 
+<img class="profile-picture" src="face.jpeg" width="300" height="200">
+
+<img class="profile-picture" src="face.jpeg">
+
+<img class="profile-picture" src="face.jpeg">
 
 ## Publications
 
