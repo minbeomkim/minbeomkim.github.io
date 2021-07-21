@@ -23,13 +23,13 @@ Seoul National University, Machine Intelligence Lab<br/>
 Graduate Research Assistant<br/>
 2021.08 ~<br/>
 
-<img class="profile-picture" src="ADD_logo.png">
+<img src="ADD_logo.png" width="300" height="300">
 
 Agency for Defense Development<br/>
 AI Scientist / 1st Lietenant (Duration of Military Service)<br/>
 2018.06 ~ 2021.05<br/>
 
-<img src="KAIST_logo.jpeg">
+<img src="KAIST_logo.jpeg" width="300" height="300">
 
 KAIST, Applied Artificial Intelligence Lab<br/>
 Undergraduate Intern<br/>
