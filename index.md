@@ -30,4 +30,10 @@ My research is broadly in machine learning and natural language process. I am cu
 
 ## Honors and Awards
 
+1. 14th/82 Ranked, 2020 NeurIPS Competition : Procgen Challenge. Measure sample-efficiency and generalization in RL
+2. 15th/60 Ranked, 2019 CVPR NTIRE workshop : Image Super-Resolution Challenge based on a novel dataset with pairs of real low and corresponding high resolution images
+
 ## Patent
+
+1. Minbeom Kim, Youngwha Sung and Jungho Bae.” Robust GPS Spoof Detection with self-supervised learning. PT20200418. Sep 17. 2020.
+2. Changyeop shin, Youngjung Kim, Minbeom Kim and Sungho Kim.” Learning method and apparatus for improved resolution of low resolution satellite images. PT20190342. July 8. 2019.
