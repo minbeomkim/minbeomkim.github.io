@@ -18,20 +18,20 @@ My research is broadly in machine learning and natural language process. I am cu
 
 <img class="profile-picture" src="face.jpeg">
 
-Seoul National University, Machine Intelligence Lab
-Graduate Research Assistant
+Seoul National University, Machine Intelligence Lab<br/>
+Graduate Research Assistant<br/>
 2021.08 ~
 
 <img class="profile-picture" src="face.jpeg">
 
-Agency for Defense Development
-AI Scientist / 1st Lietenant (Duration of Military Service)
+Agency for Defense Development<br/>
+AI Scientist / 1st Lietenant (Duration of Military Service)<br/>
 2018.06 ~ 2021.05
 
 <img class="profile-picture" src="face.jpeg">
 
-KAIST, Applied Artificial Intelligence Lab
-Undergraduate Intern
+KAIST, Applied Artificial Intelligence Lab<br/>
+Undergraduate Intern<br/>
 2016.06 ~ 2016.09
 
 ## Publications
