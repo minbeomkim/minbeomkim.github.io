@@ -62,3 +62,8 @@ Undergraduate Intern<br/>
 
 1. Minbeom Kim, Youngwha Sung and Jungho Bae.” Robust GPS Spoof Detection with self-supervised learning. PT20200418. Sep 17. 2020.
 2. Changyeop shin, Youngjung Kim, Minbeom Kim and Sungho Kim.” Learning method and apparatus for improved resolution of low resolution satellite images. PT20190342. July 8. 2019.
+
+<br/>
+<br/>
+<br/>
+<br/>
