@@ -14,7 +14,7 @@ Existing language models in chatbots sometimes cause 'Fact Hallucination' sympto
 
 This research considers the Internet as external knowledge and augments the response through real-time search so that social chatbot can aggregate more general knowledge and reflect it in the Dialogue system.
 
-<img class="profile-picture" src="internet.png">
+<img src="internet.png">
 
 **My opinion**
 
