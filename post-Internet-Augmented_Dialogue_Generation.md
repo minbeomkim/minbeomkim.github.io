@@ -8,7 +8,8 @@ Mojtaba Komeili, Kurt Shuster, Jason Weston; arxiv 2021
 
 [[link]](https://arxiv.org/pdf/2107.07566.pdf)
 
-#**Summary**
+**Summary**
+---
 
 Existing language models in chatbots sometimes cause 'Fact Hallucination' symptoms. This is a problem that arises from the limitation of large language models. Once pretrained model is learned from the point of view of language generation with static datasets, there are times when misconceptions and bias are stored, or the learning of new concepts that need to be updated occasionally is not being learned for a long time. To solve this problem, open-domain question&answering or augmentation of responses with a knowledge graph have been leveraged as borrowing external knowledge.
 
