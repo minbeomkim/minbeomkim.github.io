@@ -14,6 +14,12 @@ Existing language models in chatbots sometimes cause 'Fact Hallucination' sympto
 
 This research considers the Internet as external knowledge and augments the response through real-time search so that social chatbot can aggregate more general knowledge and reflect it in the Dialogue system.
 
+[]
+
 **My opinion**
 
 FAIR published the latest chatbot [***'blender bot 2.0'***](https://ai.facebook.com/blog/blender-bot-2-an-open-source-chatbot-that-builds-long-term-memory-and-searches-the-internet/), and this paper is one of the research related to the chatbot. The large language model continues to be used in the direction of skillful response generation, whereas the customized service reflecting the user's taste is stored and leveraged in long-term memory. At the same time, accurate and up-to-date information is reflected to final responses through real-time Internet searches. The blender bot 2.0 seems to be researched in the direction of mixing the three modules for state-of-the-art chatbot. Furthermore, external knowledge seems to be studied with multimodal representation to aggregate images and other forms of information beyond short text scattered on the Internet. I agree and expect that this is the correct direction of the AI assistant in the future.
+
+<br/>
+<br/>
+<br/>
