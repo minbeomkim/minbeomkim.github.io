@@ -6,7 +6,6 @@ is_contact: true
 ## Paper Reviews
 
 1. [Internet-Augmented Dialogue Generation](https://minbeomkim.github.io/Post-Internet-Augmented_Dialogue_Generation)
-Mojtaba Komeili, Kurt Shuster, Jason Weston;
 <br/>
 2. dsaf
 
