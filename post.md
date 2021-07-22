@@ -5,7 +5,7 @@ is_contact: true
 
 ## Paper Reviews
 
-1. [Internet-Augmented Dialogue Generation. Mojtaba Komeili, Kurt Shuster, Jason Weston.](https://minbeomkim.github.io/Post/Internet-Augmented_Dialogue_Generation)
+1. [Internet-Augmented Dialogue Generation. Mojtaba Komeili, Kurt Shuster, Jason Weston.](https://minbeomkim.github.io/Post-Internet-Augmented_Dialogue_Generation)
 
 
 ---
