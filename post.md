@@ -7,6 +7,11 @@ is_contact: true
 
 1. Internet-Augmented Dialogue Generation. Mojtaba Komeili, Kurt Shuster, Jason Weston.
 
+
+---
+
+## Development Projects
+
 <!-- * Email: [foo@xyz.com](mailto:foo@xyz.com)
 
 * Phone: [+91-123123](tel:+91-123123)
