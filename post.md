@@ -6,7 +6,8 @@ is_contact: true
 ## Paper Reviews
 
 1. [Internet-Augmented Dialogue Generation](https://minbeomkim.github.io/post-Internet-Augmented_Dialogue_Generation)
-2. [A Persona-Based Neural Conversation Model]()
+2. [Diffusion Models Beat GANs on Image Synthesis]()
+3. [A Persona-Based Neural Conversation Model]()
 
 
 ---
