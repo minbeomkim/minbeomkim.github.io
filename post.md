@@ -6,8 +6,9 @@ is_contact: true
 ## Paper Reviews
 
 1. [Internet-Augmented Dialogue Generation](https://minbeomkim.github.io/post-Internet-Augmented_Dialogue_Generation)
-2. [Diffusion Models Beat GANs on Image Synthesis]()
-3. [A Persona-Based Neural Conversation Model]()
+2. [MERLOT: Multimodal Neural Script Knowledge Models]()
+3. [Diffusion Models Beat GANs on Image Synthesis]()
+4. [A Persona-Based Neural Conversation Model]()
 
 
 ---
