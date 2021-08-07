@@ -17,6 +17,8 @@ When learning with the seq2seq methodology for given specific dataset, the consi
 
 This research proposed two modules to solve this motivation; (1) **speaker model**, a language model infused with persona, and (2) **speaker-addressee model**, an extension of (1) for interactive conversation when considering the persona of the other person.
 
+<img src="img/persona2.png">
+
 ---
 **My opinion**
 
