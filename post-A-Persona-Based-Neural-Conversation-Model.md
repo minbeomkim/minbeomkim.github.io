@@ -11,9 +11,11 @@ Jiwei Li, Michel Galley, Chris Brockett, Georgios P. Spithourakis, Jianfeng Gao,
 
 **Summary**
 
+When learning with the seq2seq methodology for given specific dataset, the consistency of speaker information can be broken because of only learning from the viewpoint of minimizing perplexity. Of course, it is possible to solve this problem to some extent by putting input query with dialogue, even in a short conversation, the speaker's attribute must be maintained to develop into a more practical language model.
 
 <!-- <img src="internet.png"> -->
 
+Therefore, this paper proposed the model that learns the speaker's persona and enables response generation reflecting the persona of both conversational subjects.
 
 ---
 **My opinion**
