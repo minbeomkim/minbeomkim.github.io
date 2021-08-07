@@ -4,7 +4,7 @@ layout: default
 
 ## A Persona-Based Neural Conversational Model
 
-Jiwei Li, Michel Galley, Chris Brockett, Georgios P. Spithourakis, Jianfeng Gao, William B. Dolan; ACL 2016
+Jiwei Li, Michel Galley, Chris Brockett, Georgios P. Spithourakis, Jianfeng Gao, William B. Dolan; **ACL 2016**
 
 [[link]](https://aclanthology.org/P16-1094.pdf)
 ---
