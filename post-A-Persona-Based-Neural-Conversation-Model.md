@@ -15,7 +15,7 @@ When learning with the seq2seq methodology for given specific dataset, the consi
 
 <img src="img/persona1.png">
 
-This research proposed two modules to solve this motivation; (1) **speaker model**, a language model infused with persona, and (2) **speaker-addressee model**, an extension of (1) for interactive conversation when considering the persona of the other person.
+This research proposed two modules to solve this motivation; (1) **speaker model**, a language model infused with persona, and (2) **speaker-addressee model**, an extension of (1) for interactive conversation when considering the persona of the other person. The dense representation of the speaker's identity, that is, id information, should be constructed, but speaker-specific information (e.g., dialect, register, age, gender, personal information) is not provided in the form of explicit information. Instead, for being able to learn the traits from the user's responses, speaker embeddings are learned jointly with word embeddings and all other parameters of the neural model via backpropagation. Through this mechanism, the existing language model is trained in the direction of reducing perplexity, also it is possible to obtain a persona representation that injects a personalized style into the hidden layer of the decoder.
 
 <img src="img/persona2.png">
 
