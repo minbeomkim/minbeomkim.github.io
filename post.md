@@ -7,8 +7,9 @@ is_contact: true
 
 1. [Internet-Augmented Dialogue Generation](https://minbeomkim.github.io/post-Internet-Augmented_Dialogue_Generation)
 2. [A Persona-Based Neural Conversation Model](https://minbeomkim.github.io/post-A-Persona-Based-Neural-Conversation-Model)
-3. [MERLOT: Multimodal Neural Script Knowledge Models]()
-4. [Diffusion Models Beat GANs on Image Synthesis]()
+3. [Multi-Task Retrieval for Knowledge-Intensive Tasks](https://minbeomkim.github.io/post-Multi-Task-Retrieval-for-Knowledge-Intensive-Tasks)
+4. [MERLOT: Multimodal Neural Script Knowledge Models]()
+5. [Diffusion Models Beat GANs on Image Synthesis]()
 
 
 ---
