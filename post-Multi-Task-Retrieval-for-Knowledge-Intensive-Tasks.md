@@ -4,7 +4,7 @@ layout: default
 
 ## Paper Reviews
 
-1. [Internet-Augmented Dialogue Generation. Mojtaba Komeili, Kurt Shuster, Jason Weston.]()
+1. [Multi-Task Retrieval for Knowledge-Intensive Tasks. Jean Maillard, Vladimir Karpukhin, Fabio Petroni, Wen-tau Yih, Barlas Oguz, Veselin Stoyanov, Gargi Ghosh.]()
 
 
 ---
