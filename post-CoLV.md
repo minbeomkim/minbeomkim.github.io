@@ -2,11 +2,10 @@
 layout: default
 ---
 
-## Multi-Task Retrieval for Knowledge-Intensive Tasks
+## CoLV: A Collaborative Latent Variable Model for Knowledge-Grounded Dialogue Generation
 
-Jean Maillard, Vladimir Karpukhin, Fabio Petroni, Wen-tau Yih, Barlas Oguz, Veselin Stoyanov, Gargi Ghosh; **ACL 2021**
-
-[[link]](https://aclanthology.org/2021.acl-long.89.pdf)
+Haolan Zhan1, Lei Shen, Hongshen Chen, and Hainan Zhang
+[[link]](https://aclanthology.org/2021.emnlp-main.172.pdf)
 ---
 
 **Summary**
