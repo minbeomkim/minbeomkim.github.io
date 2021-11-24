@@ -29,7 +29,8 @@ nav:
  - name: "About"
    link: "/researcher/"
  - name: "Resume"
-   link: "resume.pdf"
+<!--    link: "resume.pdf" -->
+   link: ""
  - name: "Contact"
    link: "contact"
 ```
