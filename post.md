@@ -9,8 +9,6 @@ is_contact: true
 2. [A Persona-Based Neural Conversation Model](https://minbeomkim.github.io/post-A-Persona-Based-Neural-Conversation-Model)
 3. [Multi-Task Retrieval for Knowledge-Intensive Tasks](https://minbeomkim.github.io/post-Multi-Task-Retrieval-for-Knowledge-Intensive-Tasks)
 4. [CoLV: A Collaborative Latent Variable Model for Knowledge-Grounded Dialogue Generation](https://minbeomkim.github.io/post-CoLV)
-5. [MERLOT: Multimodal Neural Script Knowledge Models]()
-6. [Diffusion Models Beat GANs on Image Synthesis]()
 
 
 ---
