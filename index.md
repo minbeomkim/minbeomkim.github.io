@@ -40,7 +40,7 @@ Undergraduate Intern, advisor : Prof. il Chul Moon <br/>
 
 ## Publications
 
-1. __Stacked lossless deconvolutional network for remote sensing image restoration__<br/> 
+1. ### __Stacked lossless deconvolutional network for remote sensing image restoration__<br/> 
    Changyeop shin, <u>Minbeom Kim</u>, Sungho Kim and Youngjung Kim<br/> 
    Journal of Applied Remote Sensing 2020
 2. __Stacked lossless deconvolutional network for remote sensing image super-resolution__<br/> 
