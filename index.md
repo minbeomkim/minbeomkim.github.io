@@ -42,16 +42,16 @@ Undergraduate Intern, advisor : Prof. il Chul Moon <br/>
 
 1. __Stacked lossless deconvolutional network for remote sensing image restoration__<br/> 
    Changyeop shin, <u>Minbeom Kim</u>, Sungho Kim and Youngjung Kim<br/> 
-   𝐽𝑜𝑢𝑟𝑛𝑎𝑙 𝑜𝑓 𝐴𝑝𝑝𝑙𝑖𝑒𝑑 𝑅𝑒𝑚𝑜𝑡𝑒 𝑆𝑒𝑛𝑠𝑖𝑛𝑔 2020
+   Journal of Applied Remote Sensing 2020
 2. __Stacked lossless deconvolutional network for remote sensing image super-resolution__<br/> 
    Changyeop Shin, <u>Minbeom Kim</u>, Sungho Kim and Youngjung Kim<br/>
-   𝑆𝑃𝐼𝐸 𝐼𝑚𝑎𝑔𝑒 𝑎𝑛𝑑 𝑆𝑖𝑔𝑛𝑎𝑙 𝑃𝑟𝑜𝑐𝑒𝑠𝑠𝑖𝑛𝑔 𝑓𝑜𝑟 𝑅𝑒𝑚𝑜𝑡𝑒 𝑆𝑒𝑛𝑠𝑖𝑛𝑔 2019
+   SPIE Image and Signal Processing for Remote Sensing 2019
 3. __Deep GPS Spoofing Detection__<br/> 
    <u>Minbeom Kim</u>, Sungho Kim and Youngjung Kim<br/>
-   𝐾𝐼𝑀𝑆𝑇 2019
+   KIMST 2019
 4. __NTIRE 2019 Challenge on Real Image Super-Resolution:Methods and Results__<br/> 
    Jianrui Cai, <u>Minbeom Kim</u>, Youngjung Kim, et al.<br/>
-   𝐶𝑉𝑃𝑅 𝑤𝑜𝑟𝑘𝑠ℎ𝑜𝑝 2019.
+   CVPR workshop 2019.
 
 ## Honors and Awards
 
