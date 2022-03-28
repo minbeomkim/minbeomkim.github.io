@@ -16,6 +16,7 @@ My research interest is broadly in machine learning and natural language process
 
 ## Professional Experience
 
+<!-- ![이미지](NAVER_logo.jpeg) -->
 <img class="profile-picture" src="NAVER_logo.jpeg">
 <!-- <img src="NAVER_logo.jpeg" width="100" height="100" align="right"> -->
 
