@@ -15,14 +15,13 @@ Hi! I am a Ph.D student at Seoul National University. I am fortunate to be advis
 My research interest is broadly in machine learning and natural language process. I am currently interested in learning representation about multi-modal knowledge of the world and the knowledge grounded dialogue. 
 
 ## Professional Experience
-
-<!-- 
-<img class="profile-picture" src="NAVER_logo.jpeg">
+ 
+<!-- <img class="profile-picture" src="NAVER_logo.jpeg"> -->
 <!-- <img src="NAVER_logo.jpeg" width="100" height="100" align="right"> -->
 
-**NAVER Corp, AI Lab**<br/><br/>
-Research Intern<br/>
-2022.07 ~<br/> -->
+<!-- **NAVER Corp, AI Lab**<br/><br/> -->
+<!-- Research Intern<br/> -->
+<!-- 2022.07 ~<br/> -->
 
 <!-- ![이미지](SNU_logo.jpeg) -->
 <img class="profile-picture" src="SNU_logo.jpeg">
