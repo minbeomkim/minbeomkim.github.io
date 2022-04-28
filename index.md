@@ -19,9 +19,9 @@ My research interest is broadly in machine learning and natural language process
 <!-- <img class="profile-picture" src="NAVER_logo.jpeg"> -->
 <!-- <img src="NAVER_logo.jpeg" width="100" height="100" align="right"> -->
 
-<!-- **NAVER AI Lab**<br/><br/> -->
+<!-- **Naver Corp, NAVER AI Lab**<br/><br/> -->
 <!-- Research Intern<br/> -->
-<!-- 2022.07 ~<br/> -->
+<!-- 2022.05 ~<br/> -->
 
 <!-- ![이미지](SNU_logo.jpeg) -->
 <img class="profile-picture" src="SNU_logo.jpeg">
