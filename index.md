@@ -21,7 +21,7 @@ My research interest is broadly in machine learning and natural language process
 
 **NAVER Corp, NAVER AI Lab Language Research Team**<br/><br/>
 Research Intern<br/>
-2022.05 ~<br/>
+May 2022 ~<br/>
 
 <!-- ![이미지](SNU_logo.jpeg) -->
 <img class="profile-picture" src="SNU_logo.jpeg">
@@ -29,21 +29,21 @@ Research Intern<br/>
 
 **Seoul National University, Machine Intelligence Lab**<br/><br/>
 Graduate Research Assistant, advisor : Prof. Kyomin Jung <br/>
-2021.08 ~<br/>
+Aug 2021 ~<br/>
 
 <img class="profile-picture" src="ADD_logo.png" align="right">
 <!-- <img src="ADD_logo.png" width="100" height="100" align="right"> -->
 
 **Agency for Defense Development**<br/><br/>
 AI Researcher / 1st Lietenant (Duration of Military Service)<br/>
-2018.06 ~ 2021.05<br/>
+Jun 2018 ~ May 2021<br/>
 
 <img class="profile-picture" src="KAIST_logo.jpeg">
 <!-- <img src="KAIST_logo.jpeg" width="100" height="100" align="right"> -->
 
 **KAIST, Applied Artificial Intelligence Lab**<br/><br/>
 Undergraduate Intern, advisor : Prof. il Chul Moon <br/>
-2016.06 ~ 2016.09<br/>
+Jun 2016 ~ Sep 2016<br/>
 
 ## Publications
 
