@@ -2,13 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: 
+subtitle: Ph.D Student at Seoul National University.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: 
+  more_info: >
 
 news: true # includes a list of news items
 latest_posts: true # includes a list of the newest posts
