@@ -25,13 +25,6 @@ layout: default
             {% assign profile_image_class = 'img-fluid z-depth-1
       rounded' %}
           {% endif %}
-          {% if page.social %}
-          <div class="social">
-          <div class="contact-icons">{% include social.liquid %}</div>
-
-          <div class="contact-note">{{ site.contact_note }}</div>
-          </div>
-          {% endif %}
           {% capture sizes %}(min-width: {{site.max_width}}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px)
       30vw, 95vw"{% endcapture %}
           {%
