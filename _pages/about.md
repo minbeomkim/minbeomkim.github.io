@@ -16,8 +16,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! I am a Ph.D student at Seoul National University. I am fortunate to be advised by Prof. [Kyomin Jung](http://milab.snu.ac.kr/kjung/index.html).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My belief is that future humans will reach universal knowledge through language-driven interaction. As a key step towards AI-centric future, my current research is focused on the design of neural *'Theory-of-Mind'* and *'Predictive-Mind'* models. I propose that these **'Neural Mind Models'** will be pivotal in understanding and achieving the user's goals, fostering cooperation, strategizing effectively, and incorporating social-commonsense. This holistic approach, I believe, will lay the foundation for harmonious Human-AI Society.
