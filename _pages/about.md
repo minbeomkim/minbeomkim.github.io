@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D Student at Seoul National University.
+subtitle: Ph.D Student at [Seoul National University](http://milab.snu.ac.kr/research.html).
 
 profile:
   align: right
