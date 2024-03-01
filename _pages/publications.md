@@ -7,9 +7,8 @@ nav: true
 nav_order: 2
 ---
 
-**J**: Journal, **C**: Conference, **W**: Workshop, **A**: Arxiv preprint, **D**: Dissertation, **P**: Patent
-<p>* indicates equal contribution among authors</p>
-† indicates co-corresponding authors
+<p>* indicates equal contribution among authors <br>
+† indicates co-corresponding authors</p>
 
 
 <!-- _pages/publications.md -->
