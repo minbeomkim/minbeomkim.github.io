@@ -49,6 +49,18 @@ layout: default
       {% include news.liquid limit=true %}
     {% endif %}
 
+    <!-- Educations -->
+      <h2>
+        <a href="{{ '/news/' | relative_url }}" style="color: inherit">education</a>
+      </h2>
+      {% include news.liquid limit=true %}
+
+    <!-- Work Experiences -->
+      <h2>
+        <a href="{{ '/news/' | relative_url }}" style="color: inherit">work experience</a>
+      </h2>
+      {% include news.liquid limit=true %}
+
     <!-- Latest posts -->
     {% if page.latest_posts %}
       <h2>
