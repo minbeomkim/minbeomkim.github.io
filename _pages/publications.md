@@ -22,7 +22,9 @@ nav_order: 2
 
 ## during military service
 
-1. __Minbeom Kim, Youngwha Sung and Jungho Bae. Learning method for detecting spoofing signal and apparatus for detecting spoofing signal using the same__. <br/> Korea Patent. Sep 17. 2020. [[Link](http://link.kipris.or.kr/link/main/sharePage_KR.jsp?reg_key=gaXejDaQeuOtyJld32oYgA==&APPLNO=1020200143646)]
+1. __Learning method for detecting spoofing signal and apparatus for detecting spoofing signal using the same__. <br/>
+   __Minbeom Kim__, Youngwha Sung and Jungho Bae <br/>
+   <em>Korea Patent</em>. Sep 17. 2020. [[Link](http://link.kipris.or.kr/link/main/sharePage_KR.jsp?reg_key=gaXejDaQeuOtyJld32oYgA==&APPLNO=1020200143646)]
 
 <br>
 
@@ -32,7 +34,9 @@ nav_order: 2
 
 <br>
 
-3. __Changyeop shin, Youngjung Kim, Minbeom Kim and Sungho Kim. Learning method and apparatus for improved resolution of low resolution satellite images.__ <br/> Korea Patent. July 8. 2019. [[Link](http://link.kipris.or.kr/link/main/sharePage_KR.jsp?reg_key=gaXejDaQeuOtyJld32oYgA==&APPLNO=1020190130179)]
+3. __Learning method and apparatus for improved resolution of low resolution satellite images.__ <br/>
+   Changyeop shin, Youngjung Kim, __Minbeom Kim__ and Sungho Kim <br/>
+   <em>Korea Patent</em>. July 8. 2019. [[Link](http://link.kipris.or.kr/link/main/sharePage_KR.jsp?reg_key=gaXejDaQeuOtyJld32oYgA==&APPLNO=1020190130179)]
 
 <br>
 
