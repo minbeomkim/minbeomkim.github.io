@@ -18,3 +18,13 @@ nav_order: 2
 {% bibliography %}
 
 </div>
+
+<br>
+
+## during military service
+
+
+<br>
+<br>
+<br>
+<br>
