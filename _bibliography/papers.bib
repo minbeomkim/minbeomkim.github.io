@@ -9,22 +9,19 @@
       Park, Joonsuk  and
       Lee†, Hwaran  and
       Jung†, Kyomin",
-    editor = "Rogers, Anna  and
-      Boyd-Graber, Jordan  and
-      Okazaki, Naoaki",
     booktitle = "ACL 2023 (Findings Spotlights)",
-    month = jul,
+    month = "jul",
     year = "2023",
     address = "Toronto, Canada",
     publisher = "Association for Computational Linguistics",
     url = "https://aclanthology.org/2023.findings-acl.281",
     doi = "10.18653/v1/2023.findings-acl.281",
     pages = "4598--4612",
-    pdf = "https://aclanthology.org/2023.findings-acl.281"
-    code = "https://github.com/minbeomkim/CriticControl"
-    slides = "/assets/pdf/ACL2023-CriticControl-Slides.pdf"
+    pdf = "https://aclanthology.org/2023.findings-acl.281",
+    code = "https://github.com/minbeomkim/CriticControl",
+    slides = "/assets/pdf/ACL2023-CriticControl-Slides.pdf",
     abstract = "Steering language generation towards objectives or away from undesired content has been a long-standing goal in utilizing language models (LM). Recent work has demonstrated reinforcement learning and weighted decoding as effective approaches to achieve a higher level of language control and quality with pros and cons. In this work, we propose a novel critic decoding method for controlled language generation (CriticControl) that combines the strengths of reinforcement learning and weighted decoding. Specifically, we adopt the actor-critic framework and train an LM-steering critic from reward models. Similar to weighted decoding, our method freezes the language model and manipulates the output token distribution using a critic to improve training efficiency and stability. Evaluation of our method on three controlled generation tasks, topic control, sentiment control, and detoxification, shows that our approach generates more coherent and well-controlled texts than previous methods. In addition, CriticControl demonstrates superior generalization ability in zero-shot settings. Human evaluation studies also corroborate our findings.",
-    preview = "brownian-motion.gif"
+    preview = "CriticControl.png"
 }
 
 @article{kim2022action,
@@ -34,20 +31,22 @@
   volume={17},
   number={3},
   pages={e0265456},
-  month = mar,
+  month={mar},
   year={2022},
-  pdf="/assets/pdf/ADAT.pdf"
-  abstract="In reinforcement learning, reward-driven feature learning directly from high-dimensional images faces two challenges: \textit{sample-efficiency} for solving control tasks and \textit{generalization} to unseen observations. In prior works, these issues have been addressed through learning representation from pixel inputs. However, their representation faced the limitations of being vulnerable to the high diversity inherent in environments or not taking the characteristics for solving control tasks. To attenuate these phenomena, we propose the novel contrastive representation method, \textit{Action-Driven Auxiliary Task (ADAT)}, which forces a representation to concentrate on essential features for deciding actions and ignore control-irrelevant details. In the augmented state-action dictionary of ADAT, the agent learns representation to maximize agreement between observations sharing the same actions. The proposed method significantly outperforms model-free and model-based algorithms in the Atari and OpenAI ProcGen, widely used benchmarks for sample-efficiency and generalization."
-  publisher={Public Library of Science San Francisco, CA USA}
+  pdf={/assets/pdf/ADAT.pdf},
+  abstract={In reinforcement learning, reward-driven feature learning directly from high-dimensional images faces two challenges: \textit{sample-efficiency} for solving control tasks and \textit{generalization} to unseen observations. In prior works, these issues have been addressed through learning representation from pixel inputs. However, their representation faced the limitations of being vulnerable to the high diversity inherent in environments or not taking the characteristics for solving control tasks. To attenuate these phenomena, we propose the novel contrastive representation method, \textit{Action-Driven Auxiliary Task (ADAT)}, which forces a representation to concentrate on essential features for deciding actions and ignore control-irrelevant details. In the augmented state-action dictionary of ADAT, the agent learns representation to maximize agreement between observations sharing the same actions. The proposed method significantly outperforms model-free and model-based algorithms in the Atari and OpenAI ProcGen, widely used benchmarks for sample-efficiency and generalization.},
+  publisher={Public Library of Science San Francisco, CA USA},
+  preview={ADAT.png}
 }
 
 @article{kim2023lifetox,
   title={LifeTox: Unveiling Implicit Toxicity in Life Advice},
   author={Kim, Minbeom and Koo, Jahyun and Lee, Hwanhee and Park†, Joonsuk and Lee, Hwaran and Jung†, Kyomin},
   journal={arXiv preprint},
-  month=nov,
-  year={2023}
-  pdf="https://arxiv.org/pdf/2311.09585.pdf"
-  abstact="As large language models become increasingly integrated into daily life, detecting implicit toxicity across diverse contexts is crucial. To this end, we introduce \texttt{LifeTox}, a dataset designed for identifying implicit toxicity within a broad range of advice-seeking scenarios. Unlike existing safety datasets, \texttt{LifeTox} comprises diverse contexts derived from personal experiences through open-ended questions. Our experiments demonstrate that RoBERTa fine-tuned on \texttt{LifeTox} matches or surpasses the zero-shot performance of large language models in toxicity classification tasks. These results underscore the efficacy of \texttt{LifeTox} in addressing the complex challenges inherent in implicit toxicity."
+  month={nov},
+  year={2023},
+  pdf={https://arxiv.org/pdf/2311.09585.pdf},
+  abstact={As large language models become increasingly integrated into daily life, detecting implicit toxicity across diverse contexts is crucial. To this end, we introduce \texttt{LifeTox}, a dataset designed for identifying implicit toxicity within a broad range of advice-seeking scenarios. Unlike existing safety datasets, \texttt{LifeTox} comprises diverse contexts derived from personal experiences through open-ended questions. Our experiments demonstrate that RoBERTa fine-tuned on \texttt{LifeTox} matches or surpasses the zero-shot performance of large language models in toxicity classification tasks. These results underscore the efficacy of \texttt{LifeTox} in addressing the complex challenges inherent in implicit toxicity.},
+  preview={LifeTox.png}
 }
 
