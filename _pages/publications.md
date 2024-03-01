@@ -22,7 +22,7 @@ nav_order: 2
 
 ## during military service
 
-1. __Minbeom Kim, Youngwha Sung and Jungho Bae. Learning method for detecting spoofing signal and apparatus for detecting spoofing signal using the same__. Korea Patent. Sep 17. 2020. [[Link](http://link.kipris.or.kr/link/main/sharePage_KR.jsp?reg_key=gaXejDaQeuOtyJld32oYgA==&APPLNO=1020200143646)]
+1. __Minbeom Kim, Youngwha Sung and Jungho Bae. Learning method for detecting spoofing signal and apparatus for detecting spoofing signal using the same__. <br/> Korea Patent. Sep 17. 2020. [[Link](http://link.kipris.or.kr/link/main/sharePage_KR.jsp?reg_key=gaXejDaQeuOtyJld32oYgA==&APPLNO=1020200143646)]
 
 <br>
 
