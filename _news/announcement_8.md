@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[LifeTox](https://arxiv.org/pdf/2311.09585.pdf) was accepted at NAACL 2024. See you in Mexico!
+[LifeTox](https://arxiv.org/pdf/2311.09585.pdf) was accepted at NAACL 2024. See you in Mexico! 🌮
