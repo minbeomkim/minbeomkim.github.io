@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I joined [Naver Labs Europe](https://europe.naverlabs.com/) as a research intern.
+I joined [Naver Labs Europe](https://europe.naverlabs.com/) as a research intern. 🏔️
