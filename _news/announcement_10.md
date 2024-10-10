@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-After an amazing internship at <span style="color:aqua">Naver Labs Europe</span>, our new paper [Guaranteed Generation](https://arxiv.org/abs/2410.06716) is out!! 💯
+After an amazing internship at <span style="color:blue">Naver Labs Europe</span>, our new paper [Guaranteed Generation](https://arxiv.org/abs/2410.06716) is out!! 💯
