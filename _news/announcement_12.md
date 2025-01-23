@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our [🛡️GUARD](https://arxiv.org/abs/2410.06716) is accepted to ICRL 2025!! See you in Singapore 🇸🇬.
+Our [🛡️GUARD](https://arxiv.org/abs/2410.06716) is accepted to ICRL 2025!! See you in Singapore. 🇸🇬
