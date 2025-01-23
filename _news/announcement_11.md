@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our 3 papers are accepted to NAACL 2025!!! See you in Albuquerque, USA 🇺🇸.
+Our 3 papers are accepted to NAACL 2025!!! See you in Albuquerque, USA. 🇺🇸
