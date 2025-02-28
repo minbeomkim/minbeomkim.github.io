@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our new paper [Drift](https://arxiv.org/abs/2502.14289) is out! We can personalize LLMs with individual user preferences very efficiently!
+Our new paper 🏎️ [Drift](https://arxiv.org/abs/2502.14289) is out! We can personalize LLMs with individual user preferences very efficiently!
