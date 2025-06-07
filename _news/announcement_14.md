@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have joined [LawZero](https://lawzero.org/en) founded by [Yoshua Bengio](https://yoshuabengio.org/) as a research intern!! An exciting journey for 💯🛡️Agentic AI Safety Guarantee!!
+I have joined 🧪<span style="color:ForestGreen">[LawZero](https://lawzero.org/en)</span> founded by [Yoshua Bengio](https://yoshuabengio.org/) as a research intern!! An exciting journey for Agentic AI Safety Guarantee!!
