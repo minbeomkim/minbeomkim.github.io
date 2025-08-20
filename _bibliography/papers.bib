@@ -1,16 +1,6 @@
 ---
 ---
 
-@article{kim2025reflact,
-      title={ReflAct: World-Grounded Decision Making in LLM Agents via Goal-State Reflection}, 
-      author={Kim*, Jeonghye and Rhee*, Sojeong and Kim, Minbeom and Kim, Dohyung and Lee, Sangmook and Sung†, Youngchul and Jung†, Kyomin},
-      year={2025},
-      journal={Underreview},
-      pdf={https://arxiv.org/abs/2505.15182},
-      abstract={Recent advances in LLM agents have largely built on reasoning backbones like ReAct, which interleave thought and action in complex environments. However, ReAct often produces ungrounded or incoherent reasoning steps, leading to misalignment between the agent’s actual state and goals. Our analysis finds that this stems from ReAct’s inability to maintain consistent internal beliefs and goal alignment, causing compounding errors and hallucinations. To address this, we introduce ReflAct, a novel backbone that shifts reasoning from merely planning next actions to continuously reflecting on the agent’s state relative to its goals. By explicitly grounding decisions in states and enforcing ongoing goal alignment, ReflAct dramatically improves strategic reliability. This design delivers substantial empirical gains: ReflAct surpasses ReAct by 24.9% on average, achieving a 93.3% success rate in ALFWorld. Notably, ReflAct even outperforms ReAct with added enhancement modules (e.g., Reflexion, WKM), showing that strengthening the core reasoning backbone is key to reliable agent performance.},
-      preview={reflact.png}
-}
-
 @article{lee2025transductive,
       title={Transductive Program Synthesis}, 
       author={Lee, Kang-il and Koo, Jahyun and Yoon, Seunghyun and Kim, Minbeom and Koh, Hyukhun and Lee, Dongryeol and Jung, Kyomin},
@@ -18,6 +8,27 @@
       journal={Underreview},
       abstract={We introduce transductive program synthesis, a new formulation of the program synthesis task that explicitly incorporates access to test inputs during synthesis. While prior approaches to program synthesis—whether based on natural language descriptions or input-output examples—typically aim to generalize from training examples, they often struggle with robustness, especially in real-world settings where training examples are limited and test inputs involve various edge cases. To address this, we propose a novel framework that improves robustness by treating synthesis as an active learning over a finite hypothesis class defined by programs' outputs. We use an LLM to predict outputs for selected test inputs and eliminate inconsistent hypotheses, where the inputs are chosen via a greedy maximin algorithm to minimize the number of LLM queries required. We evaluate our approach on two real-world datasets: Playgol, a string transformation benchmark, and MBPP+, a Python code generation benchmark. We demonstrate that our method significantly improves program synthesis in both accuracy and efficiency.},
       preview={syntra.png}
+}
+
+@article{kim2025reflact,
+      title={ReflAct: World-Grounded Decision Making in LLM Agents via Goal-State Reflection}, 
+      author={Kim*, Jeonghye and Rhee*, Sojeong and Kim, Minbeom and Kim, Dohyung and Lee, Sangmook and Sung†, Youngchul and Jung†, Kyomin},
+      year={2025},
+      journal={EMNLP 2025},
+      pdf={https://arxiv.org/abs/2505.15182},
+      abstract={Recent advances in LLM agents have largely built on reasoning backbones like ReAct, which interleave thought and action in complex environments. However, ReAct often produces ungrounded or incoherent reasoning steps, leading to misalignment between the agent’s actual state and goals. Our analysis finds that this stems from ReAct’s inability to maintain consistent internal beliefs and goal alignment, causing compounding errors and hallucinations. To address this, we introduce ReflAct, a novel backbone that shifts reasoning from merely planning next actions to continuously reflecting on the agent’s state relative to its goals. By explicitly grounding decisions in states and enforcing ongoing goal alignment, ReflAct dramatically improves strategic reliability. This design delivers substantial empirical gains: ReflAct surpasses ReAct by 24.9% on average, achieving a 93.3% success rate in ALFWorld. Notably, ReflAct even outperforms ReAct with added enhancement modules (e.g., Reflexion, WKM), showing that strengthening the core reasoning backbone is key to reliable agent performance.},
+      preview={reflact.png}
+}
+
+@article{kim2025drift,
+      title={🏎️ Drift: Decoding-time Personalized Alignments with Implicit User Preferences}, 
+      author={Kim, Minbeom and Lee, Kang-il and Joo, Seongho and Lee, Hwaran and Thonet, Thibaut and Jung, Kyomin},
+      year={2025},
+      month={Jul},
+      pdf={https://arxiv.org/abs/2502.14289},
+      journal={EMNLP 2025 Findings},
+      abstract={Personalized alignments towards individual users have been a long-standing goal in large language models (LLMs). We introduce Drift, a novel framework that personalizes LLMs at decoding-time with implicit user preferences. Unlike traditional Reinforcement Learning from Human Feedback (RLHF), which relies on vast annotated datasets and expensive gradient updates, Drift operates in a training-free manner by steering a frozen LLM through few-shot preference modeling. Our approach represents user preferences as a composition of interpretable and predefined attributes, and employs a zero-shot rewarding mechanism based on contrastive system prompts. Experiments on both a synthetic persona dataset (Perspective) and a real human-annotated dataset (PRISM) demonstrate that Drift achieves performance comparable to standard RLHF methods while using only 50–100 examples. Our results and analysis show that Drift is both computationally efficient and interpretable.},
+      preview={Drift.png}
 }
 
 @article{park2025character,
@@ -29,17 +40,6 @@
       pdf={https://arxiv.org/abs/2409.16667},
       website={https://kyeongman-header.github.io/CCI2024/},
       preview={CCI.png}
-}
-
-@article{kim2025drift,
-      title={🏎️ Drift: Decoding-time Personalized Alignments with Implicit User Preferences}, 
-      author={Kim, Minbeom and Lee, Kang-il and Joo, Seongho and Lee, Hwaran and Thonet, Thibaut and Jung, Kyomin},
-      year={2025},
-      month={Jul},
-      pdf={https://arxiv.org/abs/2502.14289},
-      journal={ICLR 2025 BiAlign workshop},
-      abstract={Personalized alignments towards individual users have been a long-standing goal in large language models (LLMs). We introduce Drift, a novel framework that personalizes LLMs at decoding-time with implicit user preferences. Unlike traditional Reinforcement Learning from Human Feedback (RLHF), which relies on vast annotated datasets and expensive gradient updates, Drift operates in a training-free manner by steering a frozen LLM through few-shot preference modeling. Our approach represents user preferences as a composition of interpretable and predefined attributes, and employs a zero-shot rewarding mechanism based on contrastive system prompts. Experiments on both a synthetic persona dataset (Perspective) and a real human-annotated dataset (PRISM) demonstrate that Drift achieves performance comparable to standard RLHF methods while using only 50–100 examples. Our results and analysis show that Drift is both computationally efficient and interpretable.},
-      preview={Drift.png}
 }
 
 
