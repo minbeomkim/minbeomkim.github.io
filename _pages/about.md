@@ -28,5 +28,7 @@ My research centers on ***Safe and Controllable AI systems***:
 
 Please feel free to reach out to me for a discussion here **minbeomkim@snu.ac.kr**!
 
+*📍 I am currently seeking Research Scientist positions (or equivalent roles) starting in mid-2026.*
+
 <!-- My Ph.D. research primarily focuses on ***Controlled Generation*** from Large Language Models. More specifically, how can we control generations that are 1) [guaranteed to strictly satisfy essential constraints (e.g. safety guarantee)](), 2) aligned with [personal preferences](), and 3) still [preserving pre-aligned general preferences]()? As a practical and impactful solution for challenges, I strongly believe that harmony **between training-time methods** and **inference-time methods** is essential. Although it looks deeply challenging, I am enjoying this journey and looking forward to the new insights it will bring. 😎 -->
 
