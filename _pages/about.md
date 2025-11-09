@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I am a Ph.D student at **Seoul National University** advised by Prof. [Kyomin Jung](http://milab.snu.ac.kr/publication.html) and a student researcher at **<span style="color:#4285F4;">G</span><span style="color:#EA4335;">o</span><span style="color:#FBBC05;">o</span><span style="color:#4285F4;">g</span><span style="color:#34A853;">l</span><span style="color:#EA4335;">e</span>**. I also have also interned at **<a href="https://lawzero.org/en" style="color:green;">LawZero</a>** and **<a href='https://europe.naverlabs.com/' style="color:blue;">NAVER Labs Europe </a>**.
+Hi! I am a *final year* Ph.D student at **Seoul National University** advised by Prof. [Kyomin Jung](http://milab.snu.ac.kr/publication.html) and a student researcher at **<span style="color:#4285F4;">G</span><span style="color:#EA4335;">o</span><span style="color:#FBBC05;">o</span><span style="color:#4285F4;">g</span><span style="color:#34A853;">l</span><span style="color:#EA4335;">e</span>**. I also have also interned at **<a href="https://lawzero.org/en" style="color:green;">LawZero</a>** and **<a href='https://europe.naverlabs.com/' style="color:blue;">NAVER Labs Europe </a>**.
 
 My research centers on ***Safe and Controllable AI systems***:
 
