@@ -16,7 +16,17 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I am a Ph.D student at **Seoul National University** advised by Prof. [Kyomin Jung](http://milab.snu.ac.kr/publication.html) and a student researcher at **<span style="color:#4285F4;">G</span><span style="color:#EA4335;">o</span><span style="color:#FBBC05;">o</span><span style="color:#4285F4;">g</span><span style="color:#34A853;">l</span><span style="color:#EA4335;">e</span>**. I also have also interned at **<a href="https://lawzero.org/en" style="color:green;">LawZero</a>** and **<a href='https://europe.naverlabs.com/' style="color:blue;">NAVER Labs Europe </a>** for Safe AI.
+Hi! I am a Ph.D student at **Seoul National University** advised by Prof. [Kyomin Jung](http://milab.snu.ac.kr/publication.html) and a student researcher at **<span style="color:#4285F4;">G</span><span style="color:#EA4335;">o</span><span style="color:#FBBC05;">o</span><span style="color:#4285F4;">g</span><span style="color:#34A853;">l</span><span style="color:#EA4335;">e</span>**. I also have also interned at **<a href="https://lawzero.org/en" style="color:green;">LawZero</a>** and **<a href='https://europe.naverlabs.com/' style="color:blue;">NAVER Labs Europe </a>**.
+
+My research centers on ***Safe and Controllable AI systems***:
+
+1. RL & its variant algorithms — decoding-time alignments ([CriticControl](https://aclanthology.org/2023.findings-acl.281), [SumGD](https://aclanthology.org/2025.findings-naacl.235/), [Drift](https://arxiv.org/pdf/2502.14289)) and guaranteed generation ([GUARD](https://openreview.net/pdf?id=8roRgrjbjv)),
+
+2. Construction of safety datasets ([LifeTox](https://aclanthology.org/2024.naacl-short.60.pdf)) and benchmarks ([AdvisorQA](https://aclanthology.org/2025.naacl-long.333/), [VLind-Bench](https://aclanthology.org/2025.findings-naacl.231/)),
+
+3. And its applications to AI agents ([ReflAct](https://aclanthology.org/2025.emnlp-main.1697/), [Syntra](https://arxiv.org/abs/2509.17393)) and practical deployments ([CCI](https://aclanthology.org/2025.findings-acl.82/)).
+
+Please feel free to reach out to me for a discussion here **minbeomkim@snu.ac.kr**!
 
 <!-- My Ph.D. research primarily focuses on ***Controlled Generation*** from Large Language Models. More specifically, how can we control generations that are 1) [guaranteed to strictly satisfy essential constraints (e.g. safety guarantee)](), 2) aligned with [personal preferences](), and 3) still [preserving pre-aligned general preferences]()? As a practical and impactful solution for challenges, I strongly believe that harmony **between training-time methods** and **inference-time methods** is essential. Although it looks deeply challenging, I am enjoying this journey and looking forward to the new insights it will bring. 😎 -->
 
