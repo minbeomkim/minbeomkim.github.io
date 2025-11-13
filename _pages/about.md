@@ -20,7 +20,7 @@ Hi! I am a *final year* Ph.D student at **Seoul National University** advised by
 
 My research centers on ***Safe and Controllable AI systems***:
 
-1. RL & its variant algorithms — decoding-time alignments ([CriticControl](https://aclanthology.org/2023.findings-acl.281), [SumGD](https://aclanthology.org/2025.findings-naacl.235/), [Drift](https://arxiv.org/pdf/2502.14289)) and constrained RL optimisation ([GUARD](https://openreview.net/pdf?id=8roRgrjbjv)),
+1. RL & its variant algorithms — decoding-time alignments ([CriticControl](https://aclanthology.org/2023.findings-acl.281), [SumGD](https://aclanthology.org/2025.findings-naacl.235/), [Drift](https://arxiv.org/pdf/2502.14289)) and constrained optimization ([GUARD](https://openreview.net/pdf?id=8roRgrjbjv)),
 
 2. Construction of safety datasets ([LifeTox](https://aclanthology.org/2024.naacl-short.60.pdf)) and benchmarks ([AdvisorQA](https://aclanthology.org/2025.naacl-long.333/), [VLind-Bench](https://aclanthology.org/2025.findings-naacl.231/)),
 
