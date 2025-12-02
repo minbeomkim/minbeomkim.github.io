@@ -26,6 +26,7 @@ My research centers on ***Safe and Controllable AI systems***:
 
 3. And its **applications to AI agents** ([ReflAct](https://aclanthology.org/2025.emnlp-main.1697/), [Syntra](https://arxiv.org/abs/2509.17393)) and practical deployments ([SumGD](https://aclanthology.org/2025.findings-naacl.235/), [CCI](https://aclanthology.org/2025.findings-acl.82/), [Drift](https://arxiv.org/pdf/2502.14289)).
 
+In particular, I'm interested in how to prevent harm from misalignment in future, more capable AI Agents.
 Please feel free to reach out to me for a discussion here **minbeomkim@snu.ac.kr**!
 
 *📍 I am currently seeking Research Scientist positions (or equivalent roles) starting in mid-2026.*
