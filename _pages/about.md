@@ -20,7 +20,7 @@ Hi! I am a *final year* Ph.D candidate at **Seoul National University** advised 
 
 My research centers on ***Safe and Controllable Agentic AI systems***:
 
-1. **RL & its variant algorithms** — decoding-time alignments ([CriticControl](https://aclanthology.org/2023.findings-acl.281), [AdvisorQA](https://aclanthology.org/2025.naacl-long.333/), [Drift](https://arxiv.org/pdf/2502.14289)) and RLVR theory ([GUARD](https://openreview.net/pdf?id=8roRgrjbjv)),
+1. **RL & its variant algorithms** — decoding-time alignments ([CriticControl](https://aclanthology.org/2023.findings-acl.281), [AdvisorQA](https://aclanthology.org/2025.naacl-long.333/), [Drift](https://arxiv.org/pdf/2502.14289)) and RLVR theory ([GUARD](https://openreview.net/pdf?id=8roRgrjbjv), [PACED-RL](https://arxiv.org/abs/2602.12642)),
 
 2. **Construction of safety guardrails** ([LifeTox](https://aclanthology.org/2024.naacl-short.60.pdf), [CausalArmor](https://arxiv.org/pdf/2602.07918)) and **benchmarks** ([AdvisorQA](https://aclanthology.org/2025.naacl-long.333/), [VLind-Bench](https://aclanthology.org/2025.findings-naacl.231/)),
 
