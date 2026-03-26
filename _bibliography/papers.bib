@@ -11,6 +11,18 @@
       preview={causalarmor.png}
 }
 
+@article{kim2026doesselfdistillationsometimesdegrade,
+      title={Why Does Self-Distillation (Sometimes) Degrade the Reasoning Capability of LLMs?}, 
+      author={Jeonghye Kim and Xufang Luo and Minbeom Kim and Sangmook Lee and Dohyung Kim and Jiwon Jeon and Dongsheng Li and Yuqing Yang},
+      year={2026},
+      journal={arxiv 2026},
+      abstract={Self-distillation has emerged as an effective post-training paradigm for LLMs, often improving performance while shortening reasoning traces. However, in mathematical reasoning, we find that it can reduce response length while degrading performance. We trace this degradation to the suppression of epistemic verbalization - the model's expression of uncertainty during reasoning. Through controlled experiments varying conditioning context richness and task coverage, we show that conditioning the teacher on rich information suppresses uncertainty expression, enabling rapid in-domain optimization with limited task coverage but harming OOD performance, where unseen problems benefit from expressing uncertainty and adjusting accordingly. Across Qwen3-8B, DeepSeek-Distill-Qwen-7B, and Olmo3-7B-Instruct, we observe performance drops of up to 40%. Our findings highlight that exposing appropriate levels of uncertainty is crucial for robust reasoning and underscore the importance of optimizing reasoning behavior beyond merely reinforcing correct answer traces.},
+      pdf={https://arxiv.org/abs/2603.24472}, 
+      code={https://github.com/beanie00/self-distillation-analysis},
+      website={https://beanie00.notion.site/why-does-self-distillation-degrade-reasoning},
+      preview={self_distil_degrade.png}
+}
+
 @article{min2026reflectcap,
       title={ReflectCAP: Detailed Image Captioning with Reflective Memory}, 
       author={Kyungmin Min and Minbeom Kim and Kang-il Lee and Seunghyun Yoon and Kyomin Jung},
