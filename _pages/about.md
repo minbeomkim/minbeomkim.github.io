@@ -24,7 +24,7 @@ My research centers on ***Safe and Controllable Agentic AI systems***:
 
 2. **Construction of safety guardrails** ([LifeTox](https://aclanthology.org/2024.naacl-short.60.pdf), [CausalArmor](https://arxiv.org/pdf/2602.07918)) and **benchmarks** ([AdvisorQA](https://aclanthology.org/2025.naacl-long.333/), [VLind-Bench](https://aclanthology.org/2025.findings-naacl.231/)),
 
-3. And its **applications to AI agents** ([ReflAct](https://aclanthology.org/2025.emnlp-main.1697/), [Syntra](https://arxiv.org/abs/2509.17393), [CausalArmor](https://arxiv.org/pdf/2602.07918)) and practical deployments ([SumGD](https://aclanthology.org/2025.findings-naacl.235/), [CCI](https://aclanthology.org/2025.findings-acl.82/), [Drift](https://arxiv.org/pdf/2502.14289)).
+3. And its **applications to AI agents** ([ReflAct](https://aclanthology.org/2025.emnlp-main.1697/), [Syntra](https://arxiv.org/abs/2509.17393), [CausalArmor](https://arxiv.org/pdf/2602.07918)) and practical deployments ([SumGD](https://aclanthology.org/2025.findings-naacl.235/), [CCI](https://aclanthology.org/2025.findings-acl.82/), [Drift](https://arxiv.org/pdf/2502.14289), [ReflectCAP](https://arxiv.org/abs/2604.12357)).
 
 In particular, I'm interested in ***how to prevent harm from misalignment in future, more capable AI Agents***.<br>
 Please feel free to reach out to me for a discussion here **minbeomkim@snu.ac.kr**!
