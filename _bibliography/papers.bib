@@ -27,6 +27,7 @@
       title={ReflectCAP: Detailed Image Captioning with Reflective Memory}, 
       author={Kyungmin Min and Minbeom Kim and Kang-il Lee and Seunghyun Yoon and Kyomin Jung},
       year={2026},
+      pdf={https://arxiv.org/abs/2604.12357},
       journal={arxiv 2026},
       abstract={Detailed image captioning demands both factual grounding and fine-grained coverage, yet existing methods have struggled to achieve them simultaneously. We address this tension with Reflective Note-Guided Captioning (ReflectCAP), where a multi-agent pipeline analyzes what the target large vision-language model (LVLM) consistently hallucinates and what it systematically overlooks, distilling these patterns into reusable guidelines called Structured Reflection Notes. At inference time, these notes steer the captioning model along both axes—what to avoid and what to attend to—yielding detailed captions that jointly improve factuality and coverage. Applying this method to 8 LVLMs spanning the GPT-4.1 family, Qwen series, and InternVL variants, ReflectCAP reaches the Pareto frontier of the trade-off between factuality and coverage, and delivers substantial gains on CapArena-Auto, where generated captions are judged head-to-head against strong reference models. Moreover, ReflectCAP offers a more favorable trade-off between caption quality and compute cost than model scaling or existing multi-agent pipelines, which incur 21–36% greater overhead. This makes high-quality detailed captioning viable under real-world cost and latency constraints.},
       preview={reflectcap.png}
