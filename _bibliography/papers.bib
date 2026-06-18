@@ -11,6 +11,17 @@
       preview={lisa.png}
 }
 
+
+@article{min2026reflectcap,
+      title={ReflectCAP: Detailed Image Captioning with Reflective Memory}, 
+      author={Kyungmin Min and Minbeom Kim and Kang-il Lee and Seunghyun Yoon and Kyomin Jung},
+      year={2026},
+      pdf={https://arxiv.org/abs/2604.12357},
+      journal={ECCV 2026},
+      abstract={Detailed image captioning demands both factual grounding and fine-grained coverage, yet existing methods have struggled to achieve them simultaneously. We address this tension with Reflective Note-Guided Captioning (ReflectCAP), where a multi-agent pipeline analyzes what the target large vision-language model (LVLM) consistently hallucinates and what it systematically overlooks, distilling these patterns into reusable guidelines called Structured Reflection Notes. At inference time, these notes steer the captioning model along both axes—what to avoid and what to attend to—yielding detailed captions that jointly improve factuality and coverage. Applying this method to 8 LVLMs spanning the GPT-4.1 family, Qwen series, and InternVL variants, ReflectCAP reaches the Pareto frontier of the trade-off between factuality and coverage, and delivers substantial gains on CapArena-Auto, where generated captions are judged head-to-head against strong reference models. Moreover, ReflectCAP offers a more favorable trade-off between caption quality and compute cost than model scaling or existing multi-agent pipelines, which incur 21–36% greater overhead. This makes high-quality detailed captioning viable under real-world cost and latency constraints.},
+      preview={reflectcap.png}
+}
+
 @article{kim2026causalarmor,
       title={CausalArmor: Efficient Indirect Prompt Injection Guardrails via Causal Attribution}, 
       author={Kim, Minbeom and Parmar, Mihir and Wallis, Phillip and Miculicich, Lesly and Jung, Kyomin and Dj Dvijotham, Krishnamurthy and T. Le, Long and Pfister, Tomas},
@@ -32,6 +43,17 @@
       preview={paced.png}
 }
 
+
+@article{Lee2026diversity,
+      title={Are We Measuring Strategy or Phrasing? The Gap Between Surface- and Approach-Level Diversity in LLM Math Reasoning}, 
+      author={Sangmook Lee and Minbeom Kim and Jeonghye Kim and Dohyung Kim  and Sojeong Rhee and Kyomin Jung},
+      year={2026},
+      journal={ICML 2026 AI4math},
+      pdf={https://arxiv.org/abs/2602.12642}, 
+      abstract={Diversity in LLM mathematical reasoning is critical for exploration, but common diversity metrics mostly capture \textit{surface-level variation} rather than differences in how a problem is solved. We address this gap by introducing \textbf{approach-level diversity}: variation in strategies across correct solutions to the same problem. Using a human-calibrated LLM judge framework, we show that prior diversity measures are unreliable proxies for approach-level diversity, and this mismatch carries over to diversity-aware RLVR, where target metrics are preserved while approach-level diversity declines. Investigating when approach-level diversity helps and whether it can be directly induced, we find that approach-diverse candidate sets improve test-time scaling. However, optimizing an LLM judge diversity reward during training causes the policy to exploit judge-specific preferences rather than broaden its approaches, leaving direct optimization of approach-level diversity as an open problem. Together, our work introduces the notion of approach-level diversity and uncovers a systematic divergence between surface- and approach-level signals, marking a step toward LLMs that reason in genuinely diverse, human-like ways.},
+      preview={paced.png}
+}
+
 @article{kim2026doesselfdistillationsometimesdegrade,
       title={Why Does Self-Distillation (Sometimes) Degrade the Reasoning Capability of LLMs?}, 
       author={Jeonghye Kim and Xufang Luo and Minbeom Kim and Sangmook Lee and Dohyung Kim and Jiwon Jeon and Dongsheng Li and Yuqing Yang},
@@ -44,15 +66,6 @@
       preview={self_distil_degrade.png}
 }
 
-@article{min2026reflectcap,
-      title={ReflectCAP: Detailed Image Captioning with Reflective Memory}, 
-      author={Kyungmin Min and Minbeom Kim and Kang-il Lee and Seunghyun Yoon and Kyomin Jung},
-      year={2026},
-      pdf={https://arxiv.org/abs/2604.12357},
-      journal={arxiv 2026},
-      abstract={Detailed image captioning demands both factual grounding and fine-grained coverage, yet existing methods have struggled to achieve them simultaneously. We address this tension with Reflective Note-Guided Captioning (ReflectCAP), where a multi-agent pipeline analyzes what the target large vision-language model (LVLM) consistently hallucinates and what it systematically overlooks, distilling these patterns into reusable guidelines called Structured Reflection Notes. At inference time, these notes steer the captioning model along both axes—what to avoid and what to attend to—yielding detailed captions that jointly improve factuality and coverage. Applying this method to 8 LVLMs spanning the GPT-4.1 family, Qwen series, and InternVL variants, ReflectCAP reaches the Pareto frontier of the trade-off between factuality and coverage, and delivers substantial gains on CapArena-Auto, where generated captions are judged head-to-head against strong reference models. Moreover, ReflectCAP offers a more favorable trade-off between caption quality and compute cost than model scaling or existing multi-agent pipelines, which incur 21–36% greater overhead. This makes high-quality detailed captioning viable under real-world cost and latency constraints.},
-      preview={reflectcap.png}
-}
 
 @article{kim2026understanding,
       title={Understanding Reasoning in LLMs through Strategic Information Allocation under Uncertainty}, 
