@@ -27,9 +27,6 @@ My research centers on ***Safe and Controllable Agentic AI systems***:
 3. And its **applications to AI agents** ([ReflAct](https://aclanthology.org/2025.emnlp-main.1697/), [Syntra](https://arxiv.org/abs/2509.17393), [CausalArmor](https://arxiv.org/pdf/2602.07918)) and practical deployments ([SumGD](https://aclanthology.org/2025.findings-naacl.235/), [CCI](https://aclanthology.org/2025.findings-acl.82/), [Drift](https://arxiv.org/pdf/2502.14289), [ReflectCAP](https://arxiv.org/abs/2604.12357)).
 
 In particular, I'm interested in ***how to prevent harm from misalignment in future, more capable AI Agents***.<br>
-Please feel free to reach out to me for a discussion here **minbeomkim@snu.ac.kr**!
+Please feel free to reach out to me for a discussion here **research@minbeom.kimr**!
 
-*📍 I am currently seeking Research Scientist positions (or equivalent roles) starting in mid-2026.*
-
-<!-- My Ph.D. research primarily focuses on ***Controlled Generation*** from Large Language Models. More specifically, how can we control generations that are 1) [guaranteed to strictly satisfy essential constraints (e.g. safety guarantee)](), 2) aligned with [personal preferences](), and 3) still [preserving pre-aligned general preferences]()? As a practical and impactful solution for challenges, I strongly believe that harmony **between training-time methods** and **inference-time methods** is essential. Although it looks deeply challenging, I am enjoying this journey and looking forward to the new insights it will bring. 😎 -->
 
