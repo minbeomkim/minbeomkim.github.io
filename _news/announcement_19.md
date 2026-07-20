@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have joined <strong><span style="color:#EA002C;">SK</span> <span style="color:#F47725;">hynix</span> <span style="color:#8A8D8F;">Research</span></strong> as a Senior Research Scientist. I will work on Recursive Self-Improvement of AI Scientists beyond Memory Constraints.
+I have joined <a href="https://research.skhynix.com/" style="text-decoration:none;"><strong><span style="color:#EA002C;">SK</span> <span style="color:#F47725;">hynix</span> <span style="color:#8A8D8F;">Research</span></strong></a> as a Senior Research Scientist. I will work on Recursive Self-Improvement of AI Scientists beyond Memory Constraints.
