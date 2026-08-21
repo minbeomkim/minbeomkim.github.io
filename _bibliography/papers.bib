@@ -12,6 +12,16 @@
 }
 
 
+@article{Lee2026diversity,
+      title={Are We Measuring Strategy or Phrasing? The Gap Between Surface- and Approach-Level Diversity in LLM Math Reasoning}, 
+      author={Sangmook Lee and Minbeom Kim and Jeonghye Kim and Dohyung Kim  and Sojeong Rhee and Kyomin Jung},
+      year={2026},
+      journal={EMNLP 2026\\ICML 2026 AI4Math (Spotlight, Top 2.9%)},
+      pdf={https://arxiv.org/pdf/2606.29985},
+      abstract={Diversity in LLM mathematical reasoning is critical for exploration, but common diversity metrics mostly capture \textit{surface-level variation} rather than differences in how a problem is solved. We address this gap by introducing \textbf{approach-level diversity}: variation in strategies across correct solutions to the same problem. Using a human-calibrated LLM judge framework, we show that prior diversity measures are unreliable proxies for approach-level diversity, and this mismatch carries over to diversity-aware RLVR, where target metrics are preserved while approach-level diversity declines. Investigating when approach-level diversity helps and whether it can be directly induced, we find that approach-diverse candidate sets improve test-time scaling. However, optimizing an LLM judge diversity reward during training causes the policy to exploit judge-specific preferences rather than broaden its approaches, leaving direct optimization of approach-level diversity as an open problem. Together, our work introduces the notion of approach-level diversity and uncovers a systematic divergence between surface- and approach-level signals, marking a step toward LLMs that reason in genuinely diverse, human-like ways.},
+      preview={mathdiv.png}
+}
+
 @article{kim2026doesselfdistillationsometimesdegrade,
       title={Why Does Self-Distillation (Sometimes) Degrade the Reasoning Capability of LLMs?}, 
       author={Jeonghye Kim and Xufang Luo and Minbeom Kim and Sangmook Lee and Dohyung Kim and Jiwon Jeon and Dongsheng Li and Yuqing Yang},
@@ -53,17 +63,6 @@
       pdf={https://arxiv.org/abs/2602.12642}, 
       abstract={Reward-maximizing RL methods enhance the reasoning performance of LLMs, but often reduce the diversity among outputs. Recent works address this issue by adopting GFlowNets, training LLMs to match a target distribution while jointly learning its partition function. In contrast to prior works that treat this partition function solely as a normalizer, we reinterpret it as a per-prompt expected-reward (i.e., online accuracy) signal, leveraging this unused information to improve sample efficiency. Specifically, we first establish a theoretical relationship between the partition function and per-prompt accuracy estimates. Building on this key insight, we propose Partition Function-Guided RL (PACED-RL), a post-training framework that leverages accuracy estimates to prioritize informative question prompts during training, and further improves sample efficiency through an accuracy estimate error-prioritized replay. Crucially, both components reuse information already produced during GFlowNet training, effectively amortizing the compute overhead into the existing optimization process. Extensive experiments across diverse benchmarks demonstrate strong performance improvements over GRPO and prior GFlowNet approaches, highlighting PACED-RL as a promising direction for a more sample efficient distribution-matching training for LLMs.},
       preview={paced.png}
-}
-
-
-@article{Lee2026diversity,
-      title={Are We Measuring Strategy or Phrasing? The Gap Between Surface- and Approach-Level Diversity in LLM Math Reasoning}, 
-      author={Sangmook Lee and Minbeom Kim and Jeonghye Kim and Dohyung Kim  and Sojeong Rhee and Kyomin Jung},
-      year={2026},
-      journal={ICML 2026 AI4Math (Spotlight, Top 2.9%)},
-      pdf={https://arxiv.org/pdf/2606.29985},
-      abstract={Diversity in LLM mathematical reasoning is critical for exploration, but common diversity metrics mostly capture \textit{surface-level variation} rather than differences in how a problem is solved. We address this gap by introducing \textbf{approach-level diversity}: variation in strategies across correct solutions to the same problem. Using a human-calibrated LLM judge framework, we show that prior diversity measures are unreliable proxies for approach-level diversity, and this mismatch carries over to diversity-aware RLVR, where target metrics are preserved while approach-level diversity declines. Investigating when approach-level diversity helps and whether it can be directly induced, we find that approach-diverse candidate sets improve test-time scaling. However, optimizing an LLM judge diversity reward during training causes the policy to exploit judge-specific preferences rather than broaden its approaches, leaving direct optimization of approach-level diversity as an open problem. Together, our work introduces the notion of approach-level diversity and uncovers a systematic divergence between surface- and approach-level signals, marking a step toward LLMs that reason in genuinely diverse, human-like ways.},
-      preview={mathdiv.png}
 }
 
 
