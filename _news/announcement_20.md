@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-It is a great honor to complete my Ph.D. and receive the department’s 1st dissertation honor, **the Best Ph.D. Dissertation Award**.
+It is a great honor to complete my Ph.D. and receive the department’s 1st dissertation honor, **the Best Ph.D. Dissertation Award 🎓🎓🎓**.
