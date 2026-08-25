@@ -122,13 +122,13 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-# blog_name: al-folio # blog_name will be displayed in your blog page
-# blog_description: a simple whitespace theme for academics
-# permalink: /blog/:year/:title/
+blog_name: Minbeom's Blog # blog_name will be displayed in your blog page
+blog_description: Notes on AI agents, memory, and scalable intelligence.
+permalink: /blog/:year/:title/
 
-# # Pagination
-# pagination:
-#   enabled: true
+# Pagination
+pagination:
+  enabled: true
 
 # related_blog_posts:
 #   enabled: true
@@ -274,8 +274,8 @@ jekyll-archives:
     tag: "/blog/tag/:name/"
     category: "/blog/category/:name/"
 
-display_tags: ["formatting", "images", "links", "math", "code"] # these tags will be displayed on the front page of your blog
-display_categories: ["blockquotes"] # these categories will be displayed on the front page of your blog
+display_tags: [] # add tags here when you want to feature them on the blog page
+display_categories: [] # add categories here when you want to feature them on the blog page
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
