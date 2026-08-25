@@ -35,7 +35,6 @@ layout: default
         {% if page.profile.more_info %}
           <div class="more-info">{{ page.profile.more_info }}</div>
         {% endif %}
-
       </div>
     {% endif %}
 
@@ -50,16 +49,16 @@ layout: default
     {% endif %}
 
     <!-- Educations -->
-      <h2>
-        <a href="{{ '/news/' | relative_url }}" style="color: inherit">education</a>
-      </h2>
-      {% include education.liquid limit=true %}
+    <h2>
+      <a href="{{ '/news/' | relative_url }}" style="color: inherit">education</a>
+    </h2>
+    {% include education.liquid limit=true %}
 
     <!-- Work Experiences -->
-      <h2>
-        <a href="{{ '/news/' | relative_url }}" style="color: inherit">work experience</a>
-      </h2>
-      {% include work.liquid limit=false %}
+    <h2>
+      <a href="{{ '/news/' | relative_url }}" style="color: inherit">work experience</a>
+    </h2>
+    {% include work.liquid limit=false %}
 
     <!-- Latest posts -->
     {% if page.latest_posts %}
